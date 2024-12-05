@@ -66,7 +66,7 @@ header{
 }
 
 .banner-text p {
-    width: 400px;
+    width: 500px;
 }
 
 /* Featured section */
@@ -121,5 +121,32 @@ header{
     text-decoration-line: underline;
 }
 
+.flower .pink{
+    background-color: #f1dde7;
+}
 
+.flower .blue{
+   background-color: #d9eff0;
+}
+
+.flower .grey{
+    background-color: #e3ebdb;
+}
+
+
+/* support related style */
+
+.support-content {
+    background-color: #f4f4f4;
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    padding: 50px 5px;
+    margin: 100px 0px;
+}
+
+.support-content img {
+    width: 50px;
+    margin-bottom: 20px;
+}
 
